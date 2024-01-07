@@ -12,3 +12,6 @@ Proyectos, ideas, repos de los proyectos sobre los que vaya trabajando este 2024
 * Dia 3 ( _coding_) :
     *   [Tabla en PrimeNG con Angular.](https://github.com/alfredoaguiararce/angular-table)
     *   [Table in Prime NG with Angular.](https://github.com/alfredoaguiararce/angular-table)
+
+* Dia 4 ( _research_) :
+    *   Investigacion y diseño para un proyecto a furuto usando inteligencia artificial, se han creado dos repositorios pero sin mucho que destacar por el momento.
